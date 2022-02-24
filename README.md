@@ -14,10 +14,24 @@
 3. TFS
 4. GIT
 5. Mercurial
+6. 
 -  [Fonte de Pesquisa](https://gaea.com.br/conheca-5-ferramentas-de-controle-de-versao-de-software/) ;
 ###  Trabalharemos com a versão de versionamento GIT:
 #### O Git é um Sistema de Controle de Versão Distribuído, ele foi criado por Linus Torvalds , que é mais conhecido por outra criação, o Linux.
 [Saiba mais sobre o Criador do Git ](https://www.techtudo.com.br/tudo-sobre/linus-torvalds.html) 👁️
+
+#  O que é o GitHub?👏
+
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. É como uma plataforma social colaborativa, onde programadores e empresas colocam seus projetos para o desenvolvimento do código.
+
+## Passos para criar sua conta no GiHub!🍁
+É  simples criar uma conta no no GitHub você só precisa entrar no [site](https://github.com/); e seguir os passos asseguir:
+
+### Criar uma Conta no GitHub! ☕
+
+1. Logo após abrir o site, clique sobre “Sign up” localizado no topo à direita. Após clicar sobre esta opção, o formulário estará disponível para que você possa inserir seus dados (nome de usuário, e-mail e senha).
+2. Após a criação da sua conta, basta clicar sobre “Sign in” localizado no topo à direita, inserir seu e-mail e senha, definidos no ato da criação da sua conta.
+3. Pronto se tudo correu certo você ja tem um conta no GitHub! 👏
 
 ## Git é a mesma coisa que Github?
 
