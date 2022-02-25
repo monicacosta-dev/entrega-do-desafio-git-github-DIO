@@ -1,6 +1,6 @@
-#Quais os comandos mais utilizados no Git?
+# Quais os comandos mais utilizados no Git? 🎓
 
-##Existem alguns comandos que costumam ser mais utilizados por quem usa diariamente esse sistema de versionamento. Conheça alguns deles:
+### Existem alguns comandos que costumam ser mais utilizados por quem usa diariamente esse sistema de versionamento. Conheça alguns deles:
 
 Initialize: Serve para inicializar um repositório vazio ou reinicializar um já existente;
 Clone: Utilizado para clonar o repositório;
