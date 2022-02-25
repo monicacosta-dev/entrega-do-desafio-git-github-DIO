@@ -15,7 +15,7 @@
 3. TFS
 4. GIT
 5. Mercurial
-6. 
+ 
 -  [Fonte de Pesquisa](https://gaea.com.br/conheca-5-ferramentas-de-controle-de-versao-de-software/) ;
 ###  Trabalharemos com a versão de versionamento GIT:
 #### O Git é um Sistema de Controle de Versão Distribuído, ele foi criado por Linus Torvalds , que é mais conhecido por outra criação, o Linux.
