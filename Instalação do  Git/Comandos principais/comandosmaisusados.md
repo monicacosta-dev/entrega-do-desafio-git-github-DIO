@@ -13,4 +13,4 @@ Log: Permite ver o histórico de commits ou um específico.
 
 
 
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+[Repositorio GitHub de Emojii](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
