@@ -3,8 +3,9 @@
 ## Links Importantes: ⌚
  
  
-- [Pagina para baixar o git](https://git-scm.com/downloads) ; 
--  [Instalando o Git no Windows](https://dicasdeprogramacao.com.br/como-instalar-o-git-no-windows/) ;
+- [Pagina para baixar o git](https://git-scm.com/downloads); 
+- [Instalando o Git no Windows](https://dicasdeprogramacao.com.br/como-instalar-o-git-no-windows/);
+- [Dio](https://web.dio.me/home);
 
 ## Estudo para aprimorar o uso do GIT:
 ###  As 5 ferramentas de controle de versão de software melhores são:
